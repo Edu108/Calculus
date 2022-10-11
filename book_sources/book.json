@@ -1,5 +1,5 @@
 {
-    "plugins": [  "anchor-navigation-ex","theme-comscore", "ga" ],
+    "plugins": [  "anchor-navigation-ex","theme-comscore", "ga", "flexible-alerts" ],
     "pluginsConfig": {
       "fontSettings": {
         "theme": "night",
@@ -29,23 +29,24 @@
               "level3Icon": "fa fa-hand-o-right"
           }
       },
+      
       "ga": {
         "token": ""
       },
-      "pluginsConfig": {
-        "flexible-alerts": {
-          "note": {
-            "label": "例題",
-            "iconVisibility":"hidden",
-          },
-          "danger": {
-            "iconVisibility":"hidden",
-          },
-          "tip": {
-            "label": "步驟",
-            "iconVisibility":"hidden"
-          },
-        }
+
+      "flexible-alerts": {
+        "note": {
+          "label": "例題",
+          "iconVisibility":"hidden",
+        },
+        "danger": {
+          "iconVisibility":"hidden",
+        },
+        "tip": {
+          "label": "步驟",
+          "iconVisibility":"hidden"
+        },
       }
+
     }
 }
