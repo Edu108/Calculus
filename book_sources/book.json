@@ -31,6 +31,21 @@
       },
       "ga": {
         "token": ""
+      },
+      "pluginsConfig": {
+        "flexible-alerts": {
+          "note": {
+            "label": "例題",
+            "iconVisibility":"hidden",
+          },
+          "danger": {
+            "iconVisibility":"hidden",
+          },
+          "tip": {
+            "label": "步驟",
+            "iconVisibility":"hidden"
+          },
+        }
       }
     }
 }
