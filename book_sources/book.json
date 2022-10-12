@@ -38,17 +38,48 @@
       "token": ""
     },
     "flexible-alerts": {
-      "note": {
+      "thm": {
+        "label": "定理",
+        "icon": "fa fa-comments",
+        "className": "danger",
+        "iconVisibility": "hidden"
+      },
+      "corol": {
+        "label": "引理",
+        "icon": "fa fa-comments",
+        "className": "danger",
+        "iconVisibility": "hidden"
+      },
+      "prop": {
+        "label": "性質",
+        "icon": "fa fa-comments",
+        "className": "danger",
+        "iconVisibility": "hidden"
+      },
+      "def": {
+        "label": "定義",
+        "icon": "fa fa-comments",
+        "className": "danger",
+        "iconVisibility": "hidden"
+      },
+      "eq": {
+        "label": "公式",
+        "icon": "fa fa-comments",
+        "className": "danger",
+        "iconVisibility": "hidden"
+      },
+      "eg": {
         "label": "例題",
+        "icon": "fa fa-comments",
+        "className": "info",
         "iconVisibility": "hidden"
       },
-      "danger": {
-        "iconVisibility": "hidden"
-      },
-      "tip": {
+      "step": {
         "label": "步驟",
+        "icon": "fa fa-comments",
+        "className": "tip",
         "iconVisibility": "hidden"
-      }
+      },
     }
   }
 }
