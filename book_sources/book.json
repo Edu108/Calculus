@@ -37,15 +37,15 @@
       "flexible-alerts": {
         "note": {
           "label": "例題",
-          "iconVisibility":"hidden",
+          "iconVisibility":"hidden"
         },
         "danger": {
-          "iconVisibility":"hidden",
+          "iconVisibility":"hidden"
         },
         "tip": {
           "label": "步驟",
           "iconVisibility":"hidden"
-        },
+        }
       }
 
     }
