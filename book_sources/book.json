@@ -79,7 +79,7 @@
         "icon": "fa fa-comments",
         "className": "tip",
         "iconVisibility": "hidden"
-      },
+      }
     }
   }
 }
