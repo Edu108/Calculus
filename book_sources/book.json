@@ -4,7 +4,7 @@
       "theme-comscore",
       "ga",
       "flexible-alerts",
-      "katex"
+      "enhanced-katex"
    ],
    "pluginsConfig":{
       "fontSettings":{
