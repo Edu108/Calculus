@@ -3,7 +3,8 @@
       "anchor-navigation-ex",
       "theme-comscore",
       "ga",
-      "flexible-alerts"
+      "flexible-alerts",
+      "katex"
    ],
    "pluginsConfig":{
       "fontSettings":{
