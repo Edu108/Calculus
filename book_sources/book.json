@@ -1,84 +1,84 @@
 {
-  "plugins": [
+  "plugins":[
     "anchor-navigation-ex",
     "theme-comscore",
     "ga",
     "flexible-alerts"
   ],
-  "pluginsConfig": {
-    "fontSettings": {
-      "theme": "night",
-      "family": "sans"
+  "pluginsConfig":{
+    "fontSettings":{
+      "theme":"night",
+      "family":"sans"
     },
-    "theme-default": {
-      "showLevel": false
+    "theme-default":{
+      "showLevel":false
     },
-    "anchor-navigation-ex": {
-      "showLevel": false,
-      "associatedWithSummary": false,
-      "printLog": false,
-      "multipleH1": false,
-      "mode": "float",
-      "showGoTop": true,
-      "float": {
-        "floatIcon": "fa fa-navicon",
-        "showLevelIcon": false,
-        "level1Icon": "fa fa-hand-o-right",
-        "level2Icon": "fa fa-hand-o-right",
-        "level3Icon": "fa fa-hand-o-right"
+    "anchor-navigation-ex":{
+      "showLevel":false,
+      "associatedWithSummary":false,
+      "printLog":false,
+      "multipleH1":false,
+      "mode":"float",
+      "showGoTop":true,
+      "float":{
+        "floatIcon":"fa fa-navicon",
+        "showLevelIcon":false,
+        "level1Icon":"fa fa-hand-o-right",
+        "level2Icon":"fa fa-hand-o-right",
+        "level3Icon":"fa fa-hand-o-right"
       },
-      "pageTop": {
-        "showLevelIcon": false,
-        "level1Icon": "fa fa-hand-o-right",
-        "level2Icon": "fa fa-hand-o-right",
-        "level3Icon": "fa fa-hand-o-right"
+      "pageTop":{
+        "showLevelIcon":false,
+        "level1Icon":"fa fa-hand-o-right",
+        "level2Icon":"fa fa-hand-o-right",
+        "level3Icon":"fa fa-hand-o-right"
       }
     },
-    "ga": {
-      "token": ""
+    "ga":{
+      "token":""
     },
-    "flexible-alerts": {
-      "thm": {
-        "label": "定理",
-        "icon": "fa fa-comments",
-        "className": "danger",
-        "iconVisibility": "hidden"
+    "flexible-alerts":{
+      "thm":{
+        "label":"定理",
+        "icon":"fa fa-comments",
+        "className":"danger",
+        "iconVisibility":"hidden"
       },
-      "corol": {
-        "label": "引理",
-        "icon": "fa fa-comments",
-        "className": "danger",
-        "iconVisibility": "hidden"
+      "corol":{
+        "label":"引理",
+        "icon":"fa fa-comments",
+        "className":"danger",
+        "iconVisibility":"hidden"
       },
-      "prop": {
-        "label": "性質",
-        "icon": "fa fa-comments",
-        "className": "danger",
-        "iconVisibility": "hidden"
+      "prop":{
+        "label":"性質",
+        "icon":"fa fa-comments",
+        "className":"danger",
+        "iconVisibility":"hidden"
       },
-      "def": {
-        "label": "定義",
-        "icon": "fa fa-comments",
-        "className": "danger",
-        "iconVisibility": "hidden"
+      "def":{
+        "label":"定義",
+        "icon":"fa fa-comments",
+        "className":"danger",
+        "iconVisibility":"hidden"
       },
-      "eq": {
-        "label": "公式",
-        "icon": "fa fa-comments",
-        "className": "danger",
-        "iconVisibility": "hidden"
+      "eq":{
+        "label":"公式",
+        "icon":"fa fa-comments",
+        "className":"danger",
+        "iconVisibility":"hidden"
       },
-      "eg": {
-        "label": "例題",
-        "icon": "fa fa-comments",
-        "className": "info",
-        "iconVisibility": "hidden"
+      "eg":{
+        "label":"例題",
+        "icon":"fa fa-comments",
+        "className":"info",
+        "iconVisibility":"hidden"
       },
-      "step": {
-        "label": "步驟",
-        "icon": "fa fa-comments",
-        "className": "tip",
-        "iconVisibility": "hidden"
+      "step":{
+        "label":"步驟",
+        "icon":"fa fa-comments",
+        "className":"tip",
+        "iconVisibility":"hidden"
       }
     }
   }
