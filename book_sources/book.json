@@ -71,7 +71,7 @@
       "eg":{
         "label":"例題",
         "icon":"fa fa-comments",
-        "className":"info",
+        "className":"note",
         "iconVisibility":"hidden"
       },
       "step":{
