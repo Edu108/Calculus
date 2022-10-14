@@ -4,7 +4,7 @@
       "theme-comscore",
       "ga",
       "flexible-alerts",
-      "enhanced-katex"
+      "mathjax"
    ],
    "pluginsConfig":{
       "fontSettings":{
