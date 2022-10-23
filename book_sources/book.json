@@ -77,6 +77,18 @@
             "icon":"fa fa-comments",
             "className":"tip",
             "iconVisibility":"hidden"
+         },
+         "danger":{
+            "iconVisibility":"hidden"
+         },
+         "note":{
+            "iconVisibility":"hidden"
+         },
+         "tip":{
+            "iconVisibility":"hidden"
+         },
+         "warning":{
+            "iconVisibility":"hidden"
          }
       }
    }
