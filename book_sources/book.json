@@ -1,16 +1,13 @@
 {
    "plugins":[
       "anchor-navigation-ex",
-      "theme-comscore",
       "ga",
       "flexible-alerts",
+      "expandable-chapters",
+      "chapter-fold",
       "enhanced-katex"
    ],
    "pluginsConfig":{
-      "fontSettings":{
-         "theme":"night",
-         "family":"sans"
-      },
       "theme-default":{
          "showLevel":false
       },
