@@ -5,7 +5,7 @@
       "flexible-alerts",
       "expandable-chapters",
       "chapter-fold",
-      "enhanced-katex"
+      "katex"
    ],
    "pluginsConfig":{
       "theme-default":{
