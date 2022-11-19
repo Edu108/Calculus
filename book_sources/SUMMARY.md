@@ -18,7 +18,7 @@
 
 ## CH.2 極限
 
-- [2-1 極限的直觀定義](articles/2-1.md)
+- [2-1 極限](articles/2-1.md)
 
 - [2-2 求極限](articles/2-2.md)
 
